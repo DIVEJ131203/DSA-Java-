@@ -4,3 +4,4 @@ public class practiceset1q5 {
         System.out.println($);
     }
 }
+//dollar sign can be made a variable in java it doesnt give error
